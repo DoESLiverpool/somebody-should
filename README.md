@@ -1,9 +1,6 @@
-Somebody Should
-===============
+# go to [somebody-should list](https://github.com/DoESLiverpool/somebody-should/issues) under the Issues link
 
-A place to collect issues/suggestions/to-do items for the physical space at DoES Liverpool
-
-There isn't any source code for the main space, we're just using this to track issues.
+This is place to collect issues/suggestions/to-do items for the physical space at DoES Liverpool
 
 If the project you're reporting the issue under has got source code, for example, the Doorbots https://github.com/DoESLiverpool/doorbot-setup then raise the issue there instead.
 
