@@ -80,6 +80,12 @@ Rooms:
 
 **Tools**
 
+Before using the tool labels (see later), there are some other labels that can be used in conjunction with them:
+
+* [Broken](https://github.com/DoESLiverpool/somebody-should/labels/Broken) - if this label is associated with a tool label, the tool will show as Broken on the [Status page](http://status.doesliverpool.com/).
+* [Maintenance](https://github.com/DoESLiverpool/somebody-should/labels/maintenance) - indicates routine, non-critical maintenance of the tool
+* [Bug](https://github.com/DoESLiverpool/somebody-should/labels/bug) - indicates ad-hoc / transient maintenance required for the tool (but won't mark the tool as Broken on the Status page)
+
 These labels actually refer to machines (big tools), but "tools" takes up less screen space (: We name most equipment, the names are shown in brackets (eg. "Gerald" is the big laser cutter, "Sophia" is the small laser cutter).
 
 * [Tool: 3D Printer - RepRap](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20RepRap)
@@ -97,3 +103,5 @@ These labels actually refer to machines (big tools), but "tools" takes up less s
 * [Tool: Solder Station (Electronics Workbench)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Solder%20Station%20%28Electronics%20Workbench%29)
 * [Tool: Vac-Former (Victor)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vac-Former%20%28Victor%29)
 * [Tool: Vinyl Cutter & Plotter (Roland Rat)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vinyl%20Cutter%20%26%20Plotter%20%28Roland%20Rat%29)
+
+Note: If any of the tool labels are deleted, renamed or new ones added, you will likely need to update the [Status page `config.json` file](https://github.com/DoESLiverpool/status/blob/master/config.json) to reflect those changes.
