@@ -91,8 +91,8 @@ These labels actually refer to machines (big tools), but "tools" takes up less s
 > TODO: Add links to wiki & detail status view links
 
 * [Tool: 3D Printer - RepRap](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20RepRap) - links: [status](http://status.doesliverpool.com/reprap)
-* [Tool: 3D Printer - Ultimaker Extended](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%20Extended) - links: [status](http://status.doesliverpool.com/ultiextended)
-* [Tool: 3D Printer - Ultimaker 2](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%202)
+* [Tool: 3D Printer - Ultimaker Extended](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%20Extended) - links: [status](http://status.doesliverpool.com/ultiextended), [web](https://ultimaker.com/en/products/ultimaker-2-plus)
+* [Tool: 3D Printer - Ultimaker 2](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%202) - links: [web](https://ultimaker.com/en/products/ultimaker-2-plus)
 * [Tool: 3D Printer - UP3 (Rose)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Rose%29) - links: [status](http://status.doesliverpool.com/rose)
 * [Tool: 3D Printer - UP3 (Violet)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Violet%29) - links: [status](http://status.doesliverpool.com/violet)
 * [Tool: 3D Printer - Other](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Other) - any not listed above
@@ -113,8 +113,8 @@ Note: If any of the tool labels are deleted, renamed or new ones added, you will
 The following labels relate to various systems used by DoES:
 
 * [System: Doorbots](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Doorbots) - links: [status 1](http://status.doesliverpool.com/doorbot1), [status 2](http://status.doesliverpool.com/doorbot2), [status 3](http://status.doesliverpool.com/doorbot3), [doorbot code](https://github.com/DoESLiverpool/doorbot-setup), [logging code](https://github.com/DoESLiverpool/logcards)
-* [System: Issue Tracker](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Issue%20Tracker) - links: [url](https://github.com/DoESLiverpool/somebody-should/issues)
+* [System: Issue Tracker](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Issue%20Tracker) - links: [web](https://github.com/DoESLiverpool/somebody-should/issues)
 * [System: Network](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Network)
-* [System: Status Page](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Status%20Page) - links: [url](http://status.doesliverpool.com/), [code](https://github.com/DoESLiverpool/status)
-* [System: Website](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Website) - links: [url](https://doesliverpool.com/), [status](http://status.doesliverpool.com/site)
-* [System: Wiki](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Wiki) - links: [url](https://github.com/DoESLiverpool/wiki)
+* [System: Status Page](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Status%20Page) - links: [web](http://status.doesliverpool.com/), [code](https://github.com/DoESLiverpool/status)
+* [System: Website](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Website) - links: [web](https://doesliverpool.com/), [status](http://status.doesliverpool.com/site)
+* [System: Wiki](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Wiki) - links: [web](https://github.com/DoESLiverpool/wiki)
