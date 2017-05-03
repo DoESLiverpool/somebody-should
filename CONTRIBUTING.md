@@ -50,12 +50,12 @@ We have several flavours of label to choose from...
 
 Priority labels are loosely-based on the [MoSCoW Method](https://en.wikipedia.org/wiki/MoSCoW_method) and start with a number denoting the priority. There should be only one of these labels per issue:
 
-* [0: Triage]() - requires review by DoES team
-* [1: Must Do]() - mission critical issues
-* [2: Should Do]() - important tasks
-* [3: Could Do]() - "nice to have" stuff
-* [4: Stale]() - see Stale Issues above
-* [5: Won't Do]() - things we decided not to do
+* [0: Triage](https://github.com/DoESLiverpool/somebody-should/labels/0%3A%20Triage) - requires review by DoES team
+* [1: Must Do](https://github.com/DoESLiverpool/somebody-should/labels/1%3A%20Must%20Do) - mission critical issues
+* [2: Should Do](https://github.com/DoESLiverpool/somebody-should/labels/2%3A%20Should%20Do) - important tasks
+* [3: Could Do](https://github.com/DoESLiverpool/somebody-should/labels/3%3A%20Could%20Do) - "nice to have" stuff
+* [4: Stale](https://github.com/DoESLiverpool/somebody-should/labels/4%3A%20Stale) - see Stale Issues above
+* [5: Won't Do](https://github.com/DoESLiverpool/somebody-should/labels/5%3A%20Won%27t%20Do) - things we decided not to do
 
 **Location**
 
@@ -63,37 +63,37 @@ Add location labels when an issue relates to a specific part of the building or 
 
 Building:
 
-* [Building]() - anything not convered by any of the following labels in this section
-* [Building: Parking]()
+* [Building](https://github.com/DoESLiverpool/somebody-should/labels/Building) - anything not convered by any of the following labels in this section
+* [Building: Parking](https://github.com/DoESLiverpool/somebody-should/labels/Building%3A%20Parking)
 
 Rooms:
 
 > TODO: Floorplan image ([draft here](https://github.com/DoESLiverpool/somebody-should/issues/432#issuecomment-298172301))
 
-* [Room: Dinky]()
-* [Room: Fridge]()
-* [Room: Hotdesks (main room)]()
-* [Room: Kitchen]()
-* [Room: Recycling]()
-* [Room: Room29 (permadesks)]()
-* [Room: Workshop]()
+* [Room: Dinky](https://github.com/DoESLiverpool/somebody-should/labels/Room%3A%20Dinky)
+* [Room: Fridge](https://github.com/DoESLiverpool/somebody-should/labels/Room%3A%20Fridge)
+* [Room: Hotdesks (main room)](https://github.com/DoESLiverpool/somebody-should/labels/Room%3A%20Hotdesks%20%28main%20room%29)
+* [Room: Kitchen](https://github.com/DoESLiverpool/somebody-should/labels/Room%3A%20Kitchen)
+* [Room: Recycling](https://github.com/DoESLiverpool/somebody-should/labels/Room%3A%20Recycling)
+* [Room: Room29 (permadesks)](https://github.com/DoESLiverpool/somebody-should/labels/Room%3A%20Room29%20%28Permadesks%29)
+* [Room: Workshop](https://github.com/DoESLiverpool/somebody-should/labels/Room%3A%20Workshop)
 
 **Tools**
 
 These labels actually refer to machines (big tools), but "tools" takes up less screen space (: We name most equipment, the names are shown in brackets (eg. "Gerald" is the big laser cutter, "Sophia" is the small laser cutter).
 
-* [Tool: 3D Printer - RepRap]()
-* [Tool: 3D Printer - Ultimaker Extended]()
-* [Tool: 3D Printer - Ultimaker 2]()
-* [Tool: 3D Printer - UP3 (Rose)]()
-* [Tool: 3D Printer - UP3 (Violet)]()
-* [Tool: 3D Printer - Other]() - any not listed above
-* [Tool: Bandsaw]()
-* [Tool: Dinky]()
-* [Tool: Laser Cutter - Large (Gerald)]()
-* [Tool: Laser Cutter - Small (Sophia)]()
-* [Tool: Polargraph (Tosca)]()
-* [Tool: Proxxon CNC Mill]()
-* [Tool: Solder Station (Electronics Workbench)]()
-* [Tool: Vac-Former (Victor)]()
-* [Tool: Vinyl Cutter & Plotter (Roland Rat)]()
+* [Tool: 3D Printer - RepRap](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20RepRap)
+* [Tool: 3D Printer - Ultimaker Extended](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%20Extended)
+* [Tool: 3D Printer - Ultimaker 2](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%202)
+* [Tool: 3D Printer - UP3 (Rose)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Rose%29)
+* [Tool: 3D Printer - UP3 (Violet)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Violet%29)
+* [Tool: 3D Printer - Other](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Other) - any not listed above
+* [Tool: Bandsaw](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Bandsaw)
+* [Tool: CNC Mill - Proxxon](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20CNC%20Mill%20-%20Proxxon)
+* [Tool: Dinky](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Dinky)
+* [Tool: Laser Cutter - Large (Gerald)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Large%20%28Gerald%29)
+* [Tool: Laser Cutter - Small (Sophia)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Small%20%28Sophia%29)
+* [Tool: Polargraph (Tosca)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Polargraph%20%28Tosca%29)
+* [Tool: Solder Station (Electronics Workbench)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Solder%20Station%20%28Electronics%20Workbench%29)
+* [Tool: Vac-Former (Victor)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vac-Former%20%28Victor%29)
+* [Tool: Vinyl Cutter & Plotter (Roland Rat)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vinyl%20Cutter%20%26%20Plotter%20%28Roland%20Rat%29)
