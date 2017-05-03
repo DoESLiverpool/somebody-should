@@ -28,7 +28,7 @@ A closed issue can be reopened if desired - please add a comment stating _why_ y
 
 ### Stale Issues
 
-To ensure that _all_ issues are processed, we periodically mark derelict issues as "Stale"... and then the clock starts ticking; if no further action is taken within ~1 month, the issue will be closed as [5: Won't Do]().
+To ensure that _all_ issues are processed, we periodically mark derelict issues as "Stale"... and then the clock starts ticking; if no further action is taken within ~1 month, the issue will be closed as `5: Won't Do`.
 
 If you want to "un-stale" an issue:
 
