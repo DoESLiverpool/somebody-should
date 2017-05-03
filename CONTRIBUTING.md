@@ -1,5 +1,3 @@
-_testing contrib guidelines - this file will be edited several times today_
-
 DoES Liverpool relies on active participation from the community - if you see something that needs doing, [JFDI](http://www.urbandictionary.com/define.php?term=JFDI).
 
 > It's better to regret something you have done, than to regret something you haven't done. (:
