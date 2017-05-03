@@ -6,7 +6,7 @@ Note: If the project you're reporting the issue under has got source code, for e
 
 For a priority-oreiented view of the existing issues, try [HuBoard](https://huboard.com/DoESliverpool/somebody-should). Also check out the legacy "Somebody Should" list on the [wiki](http://wiki.doesliverpool.com/HackTheSpace) to see how we got started.
 
-# [Create new issue](https://github.com/DoESLiverpool/somebody-should/issues/new)
+## [Create new issue](https://github.com/DoESLiverpool/somebody-should/issues/new)
 
 Anyone can create new issues.  Similarly, anyone is allowed to do the work to fix them - just dive in and DoES (: If you're unsure, check out our [Contributor guidelines & bestiary of issue labels](https://github.com/DoESLiverpool/somebody-should/blob/master/CONTRIBUTING.md)
 
