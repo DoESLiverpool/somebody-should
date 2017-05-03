@@ -88,20 +88,22 @@ Before using the tool labels (see later), there are some other labels that can b
 
 These labels actually refer to machines (big tools), but "tools" takes up less screen space (: We name most equipment, the names are shown in brackets (eg. "Gerald" is the big laser cutter, "Sophia" is the small laser cutter).
 
-* [Tool: 3D Printer - RepRap](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20RepRap)
-* [Tool: 3D Printer - Ultimaker Extended](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%20Extended)
+> TODO: Add links to wiki & detail status view links
+
+* [Tool: 3D Printer - RepRap](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20RepRap) - [status](http://status.doesliverpool.com/reprap)
+* [Tool: 3D Printer - Ultimaker Extended](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%20Extended) - [status](http://status.doesliverpool.com/ultiextended)
 * [Tool: 3D Printer - Ultimaker 2](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%202)
 * [Tool: 3D Printer - UP3 (Rose)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Rose%29)
-* [Tool: 3D Printer - UP3 (Violet)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Violet%29)
+* [Tool: 3D Printer - UP3 (Violet)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Violet%29) - [status](http://status.doesliverpool.com/violet)
 * [Tool: 3D Printer - Other](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Other) - any not listed above
-* [Tool: Bandsaw](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Bandsaw)
+* [Tool: Bandsaw](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Bandsaw) - [status](http://status.doesliverpool.com/bandsaw)
 * [Tool: CNC Mill - Proxxon](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20CNC%20Mill%20-%20Proxxon)
 * [Tool: Dinky](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Dinky)
-* [Tool: Laser Cutter - Large (Gerald)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Large%20%28Gerald%29)
-* [Tool: Laser Cutter - Small (Sophia)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Small%20%28Sophia%29)
+* [Tool: Laser Cutter - Large (Gerald)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Large%20%28Gerald%29) - [status](http://status.doesliverpool.com/gerald)
+* [Tool: Laser Cutter - Small (Sophia)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Small%20%28Sophia%29) - [status](http://status.doesliverpool.com/sophia)
 * [Tool: Polargraph (Tosca)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Polargraph%20%28Tosca%29)
 * [Tool: Solder Station (Electronics Workbench)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Solder%20Station%20%28Electronics%20Workbench%29)
-* [Tool: Vac-Former (Victor)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vac-Former%20%28Victor%29)
+* [Tool: Vac-Former (Victor)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vac-Former%20%28Victor%29) - [status](http://status.doesliverpool.com/vacformer)
 * [Tool: Vinyl Cutter & Plotter (Roland Rat)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vinyl%20Cutter%20%26%20Plotter%20%28Roland%20Rat%29)
 
 Note: If any of the tool labels are deleted, renamed or new ones added, you will likely need to update the [Status page `config.json` file](https://github.com/DoESLiverpool/status/blob/master/config.json) to reflect those changes.
