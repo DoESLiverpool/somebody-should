@@ -107,3 +107,14 @@ These labels actually refer to machines (big tools), but "tools" takes up less s
 * [Tool: Vinyl Cutter & Plotter (Roland Rat)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vinyl%20Cutter%20%26%20Plotter%20%28Roland%20Rat%29)
 
 Note: If any of the tool labels are deleted, renamed or new ones added, you will likely need to update the [Status page `config.json` file](https://github.com/DoESLiverpool/status/blob/master/config.json) to reflect those changes.
+
+**Systems**
+
+The following labels relate to various systems used by DoES:
+
+* [System: Doorbots](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Doorbots) - status [1](http://status.doesliverpool.com/doorbot1), [2](http://status.doesliverpool.com/doorbot2), [3](http://status.doesliverpool.com/doorbot3) - [doorbot code](https://github.com/DoESLiverpool/doorbot-setup), [logging code](https://github.com/DoESLiverpool/logcards)
+* [System: Issue Tracker](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Issue%20Tracker) - [link](https://github.com/DoESLiverpool/somebody-should/issues)
+* [System: Network](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Network)
+* [System: Status Page](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Status%20Page) - [link](http://status.doesliverpool.com/) - [code](https://github.com/DoESLiverpool/status)
+* [System: Website](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Website) - [link](https://doesliverpool.com/) - [status](http://status.doesliverpool.com/site)
+* [System: Wiki](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Wiki) - [link](https://github.com/DoESLiverpool/wiki)
