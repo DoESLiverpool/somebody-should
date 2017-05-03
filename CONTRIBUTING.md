@@ -48,12 +48,14 @@ We have several flavours of label to choose from...
 
 Priority labels are loosely-based on the [MoSCoW Method](https://en.wikipedia.org/wiki/MoSCoW_method) and start with a number denoting the priority. There should be only one of these labels per issue:
 
-* [0: Triage](https://github.com/DoESLiverpool/somebody-should/labels/0%3A%20Triage) - requires review by DoES team
-* [1: Must DoES](https://github.com/DoESLiverpool/somebody-should/labels/1%3A%20Must%20DoES) - mission critical issues
-* [2: Should DoES](https://github.com/DoESLiverpool/somebody-should/labels/2%3A%20Should%20DoES) - important tasks
-* [3: Could DoES](https://github.com/DoESLiverpool/somebody-should/labels/3%3A%20Could%20DoES) - "nice to have" stuff
-* [4: Stale](https://github.com/DoESLiverpool/somebody-should/labels/4%3A%20Stale) - see Stale Issues above
-* [5: Won't DoES](https://github.com/DoESLiverpool/somebody-should/labels/5%3A%20Won%27t%20DoES) - things we decided not to do
+* [0 - Triage](https://github.com/DoESLiverpool/somebody-should/labels/0%20-%20Triage) - requires review by DoES team
+* [1 - Must DoES](https://github.com/DoESLiverpool/somebody-should/labels/1%20-%20Must%20DoES) - mission critical issues
+* [2 - Should DoES](https://github.com/DoESLiverpool/somebody-should/labels/2%20-%20Should%20DoES) - important tasks
+* [3 - Could DoES](https://github.com/DoESLiverpool/somebody-should/labels/3%20-%20Could%20DoES) - "nice to have" stuff
+* [4 - Stale](https://github.com/DoESLiverpool/somebody-should/labels/4%20-%20Stale) - see Stale Issues above
+* [5 - Won't DoES](https://github.com/DoESLiverpool/somebody-should/labels/5%20-%20Won%27t%20DoES) - things we decided not to do
+
+You can view an agile board of issues sorted in to these priorities via our [Huboard](https://huboard.com/DoESLiverpool/somebody-should).
 
 **Location**
 
