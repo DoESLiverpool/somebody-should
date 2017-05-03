@@ -90,31 +90,31 @@ These labels actually refer to machines (big tools), but "tools" takes up less s
 
 > TODO: Add links to wiki & detail status view links
 
-* [Tool: 3D Printer - RepRap](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20RepRap) - [status](http://status.doesliverpool.com/reprap)
-* [Tool: 3D Printer - Ultimaker Extended](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%20Extended) - [status](http://status.doesliverpool.com/ultiextended)
+* [Tool: 3D Printer - RepRap](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20RepRap) - links: [status](http://status.doesliverpool.com/reprap)
+* [Tool: 3D Printer - Ultimaker Extended](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%20Extended) - links: [status](http://status.doesliverpool.com/ultiextended)
 * [Tool: 3D Printer - Ultimaker 2](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Ultimaker%202)
-* [Tool: 3D Printer - UP3 (Rose)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Rose%29)
-* [Tool: 3D Printer - UP3 (Violet)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Violet%29) - [status](http://status.doesliverpool.com/violet)
+* [Tool: 3D Printer - UP3 (Rose)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Rose%29) - links: [status](http://status.doesliverpool.com/rose)
+* [Tool: 3D Printer - UP3 (Violet)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20UP3%20%28Violet%29) - links: [status](http://status.doesliverpool.com/violet)
 * [Tool: 3D Printer - Other](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%203D%20Printer%20-%20Other) - any not listed above
-* [Tool: Bandsaw](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Bandsaw) - [status](http://status.doesliverpool.com/bandsaw)
+* [Tool: Bandsaw](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Bandsaw) - links: [status](http://status.doesliverpool.com/bandsaw)
 * [Tool: CNC Mill - Proxxon](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20CNC%20Mill%20-%20Proxxon)
 * [Tool: Dinky](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Dinky)
-* [Tool: Laser Cutter - Large (Gerald)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Large%20%28Gerald%29) - [status](http://status.doesliverpool.com/gerald)
-* [Tool: Laser Cutter - Small (Sophia)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Small%20%28Sophia%29) - [status](http://status.doesliverpool.com/sophia)
-* [Tool: Polargraph (Tosca)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Polargraph%20%28Tosca%29) - [wiki](https://github.com/DoESLiverpool/wiki/wiki/PolarGraph) - [code](https://bitbucket.org/goatchurch/bbhquad)
+* [Tool: Laser Cutter - Large (Gerald)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Large%20%28Gerald%29) - links: [status](http://status.doesliverpool.com/gerald)
+* [Tool: Laser Cutter - Small (Sophia)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Small%20%28Sophia%29) - links: [status](http://status.doesliverpool.com/sophia)
+* [Tool: Polargraph (Tosca)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Polargraph%20%28Tosca%29) - links: [wiki](https://github.com/DoESLiverpool/wiki/wiki/PolarGraph), [code](https://bitbucket.org/goatchurch/bbhquad)
 * [Tool: Solder Station (Electronics Workbench)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Solder%20Station%20%28Electronics%20Workbench%29)
-* [Tool: Vac-Former (Victor)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vac-Former%20%28Victor%29) - [status](http://status.doesliverpool.com/vacformer)
+* [Tool: Vac-Former (Victor)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vac-Former%20%28Victor%29) - links: [status](http://status.doesliverpool.com/vacformer)
 * [Tool: Vinyl Cutter & Plotter (Roland Rat)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vinyl%20Cutter%20%26%20Plotter%20%28Roland%20Rat%29)
 
-Note: If any of the tool labels are deleted, renamed or new ones added, you will likely need to update the [Status page `config.json` file](https://github.com/DoESLiverpool/status/blob/master/config.json) to reflect those changes.
+Note: If any of the tool labels are deleted, renamed or new ones added, you will need to update the [Status page `config.json` file](https://github.com/DoESLiverpool/status/blob/master/config.json) to reflect those changes.
 
 **Systems**
 
 The following labels relate to various systems used by DoES:
 
-* [System: Doorbots](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Doorbots) - status [1](http://status.doesliverpool.com/doorbot1), [2](http://status.doesliverpool.com/doorbot2), [3](http://status.doesliverpool.com/doorbot3) - [doorbot code](https://github.com/DoESLiverpool/doorbot-setup), [logging code](https://github.com/DoESLiverpool/logcards)
-* [System: Issue Tracker](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Issue%20Tracker) - [link](https://github.com/DoESLiverpool/somebody-should/issues)
+* [System: Doorbots](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Doorbots) - links: [status 1](http://status.doesliverpool.com/doorbot1), [status 2](http://status.doesliverpool.com/doorbot2), [status 3](http://status.doesliverpool.com/doorbot3), [doorbot code](https://github.com/DoESLiverpool/doorbot-setup), [logging code](https://github.com/DoESLiverpool/logcards)
+* [System: Issue Tracker](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Issue%20Tracker) - links: [url](https://github.com/DoESLiverpool/somebody-should/issues)
 * [System: Network](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Network)
-* [System: Status Page](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Status%20Page) - [link](http://status.doesliverpool.com/) - [code](https://github.com/DoESLiverpool/status)
-* [System: Website](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Website) - [link](https://doesliverpool.com/) - [status](http://status.doesliverpool.com/site)
-* [System: Wiki](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Wiki) - [link](https://github.com/DoESLiverpool/wiki)
+* [System: Status Page](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Status%20Page) - links: [url](http://status.doesliverpool.com/), [code](https://github.com/DoESLiverpool/status)
+* [System: Website](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Website) - links: [url](https://doesliverpool.com/), [status](http://status.doesliverpool.com/site)
+* [System: Wiki](https://github.com/DoESLiverpool/somebody-should/labels/System%3A%20Wiki) - links: [url](https://github.com/DoESLiverpool/wiki)
