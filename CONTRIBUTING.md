@@ -8,13 +8,13 @@ If it's something you are currently unable to do, [create a ticket](https://gith
 
 ### Be S.M.A.R.T.
 
-First, keep it [S.M.A.R.T.](https://en.wikipedia.org/wiki/SMART_criteria) ([see also]https://systemagility.com/2010/11/12/grow-smart-agile-teams/)):
-
 * **Specific** – what specifically needs to be done, and why?
 * **Measurable** – how do we track progress or confirm success?
 * **Achievable** – it has to be something achievable; otherwise, find a workaround
 * **Responsible** – who is going to do it? (either a person or skill set)
 * **Timescale** – when do we need to do it? (see note on issue labels below)
+
+More infos: [Wikipedia](https://en.wikipedia.org/wiki/SMART_criteria)
 
 ### Issue labels
 
