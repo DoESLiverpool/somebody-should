@@ -101,7 +101,7 @@ These labels actually refer to machines (big tools), but "tools" takes up less s
 * [Tool: Dinky](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Dinky)
 * [Tool: Laser Cutter - Large (Gerald)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Large%20%28Gerald%29) - [status](http://status.doesliverpool.com/gerald)
 * [Tool: Laser Cutter - Small (Sophia)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Laser%20Cutter%20-%20Small%20%28Sophia%29) - [status](http://status.doesliverpool.com/sophia)
-* [Tool: Polargraph (Tosca)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Polargraph%20%28Tosca%29)
+* [Tool: Polargraph (Tosca)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Polargraph%20%28Tosca%29) - [wiki](https://github.com/DoESLiverpool/wiki/wiki/PolarGraph) - [code](https://bitbucket.org/goatchurch/bbhquad)
 * [Tool: Solder Station (Electronics Workbench)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Solder%20Station%20%28Electronics%20Workbench%29)
 * [Tool: Vac-Former (Victor)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vac-Former%20%28Victor%29) - [status](http://status.doesliverpool.com/vacformer)
 * [Tool: Vinyl Cutter & Plotter (Roland Rat)](https://github.com/DoESLiverpool/somebody-should/labels/Tool%3A%20Vinyl%20Cutter%20%26%20Plotter%20%28Roland%20Rat%29)
