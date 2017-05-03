@@ -1,12 +1,12 @@
 This is place to collect issues/suggestions/to-do items for DoES Liverpool.
 
-### [List existing issues](https://github.com/DoESLiverpool/somebody-should/issues)
+### :point_right: [List existing issues](https://github.com/DoESLiverpool/somebody-should/issues)
 
 Note: If the project you're reporting the issue under has got source code, for example, the [Doorbots](https://github.com/DoESLiverpool/doorbot-setup) then raise the issue there instead.
 
 For a priority-oreiented view of the existing issues, try [HuBoard](https://huboard.com/DoESliverpool/somebody-should). Also check out the legacy "Somebody Should" list on the [wiki](http://wiki.doesliverpool.com/HackTheSpace) to see how we got started.
 
-### [Create new issue](https://github.com/DoESLiverpool/somebody-should/issues/new)
+### :point_right: [Create new issue](https://github.com/DoESLiverpool/somebody-should/issues/new)
 
 Anyone can create new issues.  Similarly, anyone is allowed to do the work to fix them - just dive in and DoES (:
 
