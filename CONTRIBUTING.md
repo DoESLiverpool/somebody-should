@@ -57,6 +57,8 @@ Priority labels are loosely-based on the [MoSCoW Method](https://en.wikipedia.or
 
 You can view an agile board of issues sorted in to these priorities via our [Huboard](https://huboard.com/DoESLiverpool/somebody-should).
 
+Note: The priority labels use a specific [naming convention](https://github.com/huboard/huboard/wiki/Customizing-HuBoard) to make them compatible with Huboard.
+
 **Location**
 
 Add location labels when an issue relates to a specific part of the building or a room.
