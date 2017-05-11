@@ -1,12 +1,8 @@
-DoES Liverpool relies on active participation from the community - if you see something that needs doing, [JFDI](http://www.urbandictionary.com/define.php?term=JFDI).
-
-> It's better to regret something you have done, than to regret something you haven't done. (:
-
-If it's something you are currently unable to do, [create a ticket](https://github.com/DoESLiverpool/somebody-should/issues/new) to see if someone else can do it, but follow these guidelines for great justice...
+DoES Liverpool relies on active participation from the community - if you see something that needs doing, just do it. If it's something you are currently unable to do, [create a ticket](https://github.com/DoESLiverpool/somebody-should/issues/new) to see if someone else can do it, but follow these guidelines for great justice...
 
 ### S.M.A.R.T.
 
-Any issues you create should be:
+Issues are more likely to get resolved if they are:
 
 * **Specific** – what specifically needs to be done, and why?
 * **Measurable** – how do we track progress or confirm success?
@@ -18,19 +14,17 @@ More infos: [Wikipedia](https://en.wikipedia.org/wiki/SMART_criteria)
 
 ### Issue Status
 
-Issues can be either open or closed. Newly created issues are automatically "open".
+Issues can be either open or closed. Newly created issues are automatically "open", resolved issues are (should be!) "closed".
 
-Resolve issues should always be closed. You can close issues using the button in the comments area of the issue detail screen.
-
-A closed issue can be reopened if desired - please add a comment stating _why_ you reopened it.
+If you're new to GitHub or issue tracking in general, you can [learn more here](https://guides.github.com/features/issues/).
 
 ### Stale Issues
 
-To ensure that _all_ issues are processed, we periodically mark derelict issues as "Stale"... and then the clock starts ticking; if no further action is taken within ~1 month, the issue will be closed as `5: Won't Do`.
+Any issue that seems to be abandonned will eventually be marked as "stale" - and then the clock starts ticking; if no further action is taken within ~1 month, the issue will be closed as `Won't Do`.
 
 If you want to "un-stale" an issue:
 
-* Remove the `4: Stale` label
+* Remove the `Stale` label
 * Add a comment stating why the issue should remain open.
 * Make sure the issue is S.M.A.R.T.
 
@@ -52,12 +46,12 @@ Priority labels are loosely-based on the [MoSCoW Method](https://en.wikipedia.or
 * [1 - Must DoES](https://github.com/DoESLiverpool/somebody-should/labels/1%20-%20Must%20DoES) - mission critical issues
 * [2 - Should DoES](https://github.com/DoESLiverpool/somebody-should/labels/2%20-%20Should%20DoES) - important tasks
 * [3 - Could DoES](https://github.com/DoESLiverpool/somebody-should/labels/3%20-%20Could%20DoES) - "nice to have" stuff
-* [4 - Stale](https://github.com/DoESLiverpool/somebody-should/labels/4%20-%20Stale) - see Stale Issues above
+* [4 - Stale](https://github.com/DoESLiverpool/somebody-should/labels/4%20-%20Stale) - issue will be closed soon if no futher action
 * [5 - Won't DoES](https://github.com/DoESLiverpool/somebody-should/labels/5%20-%20Won%27t%20DoES) - things we decided not to do
 
-You can view an agile board of issues sorted in to these priorities via our [Huboard](https://huboard.com/DoESLiverpool/somebody-should).
-
-Note: The priority labels use a specific [naming convention](https://github.com/huboard/huboard/wiki/Customizing-HuBoard) to make them compatible with Huboard.
+> You can view prioritised issues on our kanban board: [Huboard](https://huboard.com/DoESLiverpool/somebody-should).
+>  
+> The priority labels must use a specific [naming convention](https://github.com/huboard/huboard/wiki/Customizing-HuBoard) for that to work.
 
 **Location**
 
