@@ -13,3 +13,7 @@ Anyone can create new issues.  Similarly, anyone is allowed to do the work to fi
 If you're unsure, check out our [Contributor guidelines & bestiary of issue labels](https://github.com/DoESLiverpool/somebody-should/blob/master/CONTRIBUTING.md)
 
 For some more background on good practice when using issues, [read this](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) - it's about Github's culture and process, rather than ours, but until someone gets round to writing ours...
+
+### :point_right: [wiki instructions](https://github.com/DoESLiverpool/somebody-should/wiki)
+
+For how to use things that aren't broken. 
