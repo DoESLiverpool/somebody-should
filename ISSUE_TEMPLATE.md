@@ -1,4 +1,6 @@
 Please make your issue:
+
+* Short (Unless required to be long)
 * Specific
 * Measurable
 * Achievable
